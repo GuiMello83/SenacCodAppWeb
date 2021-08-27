@@ -1,0 +1,13 @@
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\agenda\bin\Debug\netcoreapp3.1\agenda.exe
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\agenda\bin\Debug\netcoreapp3.1\agenda.deps.json
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\agenda\bin\Debug\netcoreapp3.1\agenda.runtimeconfig.json
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\agenda\bin\Debug\netcoreapp3.1\agenda.runtimeconfig.dev.json
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\agenda\bin\Debug\netcoreapp3.1\agenda.dll
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\agenda\bin\Debug\netcoreapp3.1\agenda.pdb
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\agenda\obj\Debug\netcoreapp3.1\agenda.csprojAssemblyReference.cache
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\agenda\obj\Debug\netcoreapp3.1\agenda.AssemblyInfoInputs.cache
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\agenda\obj\Debug\netcoreapp3.1\agenda.AssemblyInfo.cs
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\agenda\obj\Debug\netcoreapp3.1\agenda.csproj.CoreCompileInputs.cache
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\agenda\obj\Debug\netcoreapp3.1\agenda.dll
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\agenda\obj\Debug\netcoreapp3.1\agenda.pdb
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\agenda\obj\Debug\netcoreapp3.1\agenda.genruntimeconfig.cache

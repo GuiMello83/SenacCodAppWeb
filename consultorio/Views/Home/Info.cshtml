@@ -1,0 +1,23 @@
+@model List<Agenda>
+@{
+    ViewData["Title"] = "Listagem";
+}
+<h1>@ViewData["Title"]</h1>
+<table border="1">
+    <thead color="gray">
+        <th>Nome</th>
+        <th>Serviço</th>
+    </thead>
+    <tbody>
+        @foreach (Agenda item in Model)
+        {
+            <tr>
+                <td>@item.nome</td>
+                <td>@item.servico</td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+<br>
+<a asp-action="Agendamentos">Novo agendamento</a>

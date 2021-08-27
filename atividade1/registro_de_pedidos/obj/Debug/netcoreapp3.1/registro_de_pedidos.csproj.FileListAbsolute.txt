@@ -1,0 +1,13 @@
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade1\registro_de_pedidos\obj\Debug\netcoreapp3.1\registro_de_pedidos.csprojAssemblyReference.cache
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade1\registro_de_pedidos\obj\Debug\netcoreapp3.1\registro_de_pedidos.AssemblyInfoInputs.cache
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade1\registro_de_pedidos\obj\Debug\netcoreapp3.1\registro_de_pedidos.AssemblyInfo.cs
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade1\registro_de_pedidos\obj\Debug\netcoreapp3.1\registro_de_pedidos.csproj.CoreCompileInputs.cache
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade1\registro_de_pedidos\bin\Debug\netcoreapp3.1\registro_de_pedidos.exe
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade1\registro_de_pedidos\bin\Debug\netcoreapp3.1\registro_de_pedidos.deps.json
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade1\registro_de_pedidos\bin\Debug\netcoreapp3.1\registro_de_pedidos.runtimeconfig.json
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade1\registro_de_pedidos\bin\Debug\netcoreapp3.1\registro_de_pedidos.runtimeconfig.dev.json
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade1\registro_de_pedidos\bin\Debug\netcoreapp3.1\registro_de_pedidos.dll
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade1\registro_de_pedidos\bin\Debug\netcoreapp3.1\registro_de_pedidos.pdb
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade1\registro_de_pedidos\obj\Debug\netcoreapp3.1\registro_de_pedidos.dll
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade1\registro_de_pedidos\obj\Debug\netcoreapp3.1\registro_de_pedidos.pdb
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade1\registro_de_pedidos\obj\Debug\netcoreapp3.1\registro_de_pedidos.genruntimeconfig.cache

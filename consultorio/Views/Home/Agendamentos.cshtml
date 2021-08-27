@@ -1,0 +1,21 @@
+@model Agenda
+@{
+    ViewData["Title"] = "Agendamento";
+}
+<h1>@ViewData["Title"]</h1>
+
+<form method="POST">
+    <p>
+        <label>Nome:</label>
+        <input type="text" asp-for="nome">
+    </p>
+    <p>
+        <label Serviço></label>
+        <select asp-for="servico">
+            <option value="restauração">Restauração</option>
+            <option value="limpeza">Limpeza</option>
+        </select>
+    </p>
+    <input type="submit" value="Agendar">
+
+</form>

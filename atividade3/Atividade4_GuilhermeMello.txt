@@ -1,0 +1,12 @@
+CREATE TABLE pre-agendamento(
+    idTable INT NOT NULL AUTO_INCREMENT,
+    nome VARCHAR (50) NOT NULL,
+    telefone VARCHAR (20),
+    data VARCHAR (12) NOT NULL,
+    animal VARCHAR (50) NOT NULL,
+    necessidade VARCHAR (80) NOT NULL, 
+);
+INSERT INTO pre-agendamento (nome, telefone, data, animal, necessidade) VALUES (
+    'Fulano de Tal', 11999999999, '11/11/1111', 'cachorro', 'Vacina' 
+);
+SELECT * FROM pre-agendamento;

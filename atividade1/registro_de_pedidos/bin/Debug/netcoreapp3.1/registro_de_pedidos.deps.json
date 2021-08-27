@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "registro_de_pedidos/1.0.0": {
+        "runtime": {
+          "registro_de_pedidos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "registro_de_pedidos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

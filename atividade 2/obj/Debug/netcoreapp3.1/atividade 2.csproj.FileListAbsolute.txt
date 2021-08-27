@@ -1,0 +1,40 @@
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\bin\Debug\netcoreapp3.1\atividade 2.exe
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\bin\Debug\netcoreapp3.1\atividade 2.deps.json
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\bin\Debug\netcoreapp3.1\atividade 2.runtimeconfig.json
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\bin\Debug\netcoreapp3.1\atividade 2.runtimeconfig.dev.json
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\bin\Debug\netcoreapp3.1\atividade 2.dll
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\bin\Debug\netcoreapp3.1\atividade 2.pdb
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\bin\Debug\netcoreapp3.1\atividade 2.Views.dll
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\bin\Debug\netcoreapp3.1\atividade 2.Views.pdb
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\atividade 2.csprojAssemblyReference.cache
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\atividade 2.AssemblyInfoInputs.cache
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\atividade 2.AssemblyInfo.cs
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\atividade 2.csproj.CoreCompileInputs.cache
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\atividade 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\atividade 2.RazorAssemblyInfo.cache
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\atividade 2.RazorAssemblyInfo.cs
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\atividade 2.TagHelpers.input.cache
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\atividade 2.TagHelpers.output.cache
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\atividade 2.RazorCoreGenerate.cache
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\atividade 2.RazorTargetAssemblyInfo.cache
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\atividade 2.RazorTargetAssemblyInfo.cs
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\atividade 2.Views.pdb
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\staticwebassets\atividade 2.StaticWebAssets.Manifest.cache
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\staticwebassets\atividade 2.StaticWebAssets.xml
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\atividade 2.dll
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\atividade 2.pdb
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\atividade 2.genruntimeconfig.cache
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\atividade 2.csproj.CopyComplete
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cadastro.cshtml.g.cs
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Listagem.cshtml.g.cs
+C:\Users\guimv\Desktop\GMM\Cursos\Senac\Codificar aplicações Web\atividade 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sobre.cshtml.g.cs
